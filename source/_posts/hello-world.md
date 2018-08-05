@@ -1,5 +1,5 @@
 ---
-title: Toturial of NOI-X.github.io
+title: Tutorial of NOI-X.github.io
 ---
 
 ## Quick Start
@@ -34,7 +34,7 @@ sudo apt install git
 
 ### Install yarn
 
-跟随yarn的[文档](https://yarn.bootcss.com/docs/install/)页面指引即可。
+跟随yarn的[文档](https://yarn.bootcss.com/docs/install/#mac-stable)页面指引即可。
 
 ## Init the project at the first time
 
